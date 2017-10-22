@@ -1,0 +1,38 @@
+nav{
+	background-color:pink;
+}
+
+.navbar-brand.ron-title{
+	color:white;
+}
+.nav-item .nav-link.nav-menu-item{
+	color: white;
+}
+
+body{
+	background: url("../imgs/flowers.jpg") repeat-x center center fixed;
+	background-size: cover;
+}
+.heading{
+	color: white;
+	font-family: Avant garde;
+	text-align:center;
+	top: 400px;
+	left: 400px;
+	text-shadow:3px 4px black;
+	font-size: 700%;
+	font-style: italic;
+}
+
+.background {
+	background:url("..//imgs/setas.jpg") repeat-y;
+	position: center;
+	left: 300px;
+	z-index: -1;
+  height: 500px;
+  width: 2000px;
+  opacity: 0.82;
+}
+.center{
+
+}
